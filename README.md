@@ -28,3 +28,6 @@ This repository contains files related to Natural Language Processing tasks perf
 
 ```bash
 jupyter notebook "Hemanth_1063_NLP.ipynb"
+
+<br>
+Author - Katta Hemanth Reddy
